@@ -1,8 +1,8 @@
-# Nerfies
+# Differentiable Visual Prompts
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Differentiable Visual Prompts (DVP) website](https://differentiable-visual-prompts.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find DVP useful for your work please cite:
 ```
 @article{park2021nerfies
   author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
@@ -12,5 +12,5 @@ If you find Nerfies useful for your work please cite:
 }
 ```
 
-# Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+**Note**: This website uses the [source code](https://github.com/nerfies/nerfies.github.io) for the Nerfies website.
+
