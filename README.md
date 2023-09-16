@@ -1,6 +1,6 @@
 # DiffPrompted
 
-This is the repository that contains source code for the [DiffPrompter website](https://differentiable-visual-prompts.github.io/).
+This is the repository that contains source code for the [DiffPrompter website](diffprompter.github.io).
 
 If you find DiffPrompter useful for your work please cite:
 ```
